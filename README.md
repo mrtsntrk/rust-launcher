@@ -1,4 +1,5 @@
 # WELCOME TO RUST LAUNCHER
+This quick launcher was made for you. Get in touch for more information. The application is not open source.
 
 # CONTACT
 **Mail:** [kasim@mertsenturk.net](mailto:kasim@mertsenturk.net "kasim@mertsenturk.net")
