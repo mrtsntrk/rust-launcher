@@ -6,4 +6,4 @@ This quick launcher was made for you. Get in touch for more information. The app
 - **WEB:** [mertsenturk.net](https://mertsenturk.net "mertsenturk.net")
 - **DISCORD:** [discord.gg/TXCZEmGxck](https://discord.gg/TXCZEmGxck "Discord")
 
-![enter image description here](https://github.com/mertinkotr/rust-launcher/blob/main/rustlauncher2.gif)
+![enter image description here](https://github.com/mertinkotr/rust-launcher/blob/main/rustlauncher2.gif).
